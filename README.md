@@ -1,2 +1,5 @@
 # WEGREEN
-loja fictícia de venda ecossustentável
+loja fictícia de venda ecossustentável, feita em grupo
+
+# ⋆౨ৎ linguagens utilizadas
+html 
